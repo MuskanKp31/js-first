@@ -7,4 +7,4 @@ for print write command on terminal -> node file path (node first-js/test.js) it
 
 */
 
-console.log("Muskan")
+console.log("name")
