@@ -7,8 +7,8 @@ refer ecma standards for more specification  --- > https:/tc39.es.......
 
 console.log(3+3);
 
-let name ="muskan"
-let agr = 20
+let name ="name"
+let age = 20
 let isLoggedIn = false
 let state;
 

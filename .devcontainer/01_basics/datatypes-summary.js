@@ -55,3 +55,23 @@ Summary:-
        Function  =>  function
        Object  =>  object
 */
+
+//  ++++++++++++++++++++++++++++
+// Stack (Primitive ), Heap (Non= Primitive)
+ let myname = "name"
+ let anothername = myname // it will create a copy of assigning value not refer to original value in stack refer daigram to understand
+ anothername = "name1"
+
+ console.log(myname);
+ console.log(anothername);
+
+ let user = {
+    email: "user@google.com",
+    upi: "user@ybl"
+ }
+ let usertwo = user
+  
+ usertwo.email ="user@gmail.com" // it will chnage value of user email
+
+ console.log(user.email)
+ console.log(usertwo.email);
