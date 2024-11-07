@@ -90,7 +90,7 @@ num1 = num2 = num3 = 2 + 2 // bad syntax don't use that
 let gameCounter = 100
 gameCounter++; //postfix operator
 //++gameCounter; // prefix operator
-console.log(gameCounter);
+//console.log(gameCounter);
 
 // link to study operator 
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
